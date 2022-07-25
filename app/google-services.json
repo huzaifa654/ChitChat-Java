@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "765012289395",
+    "project_id": "huzaifa-ubit-chitchat",
+    "storage_bucket": "huzaifa-ubit-chitchat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:765012289395:android:91e346e295a1efc86a8706",
+        "android_client_info": {
+          "package_name": "com.example.chitchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "765012289395-502e5sar7f93famu8ibokgosvmqlq7e9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmYb1tqP2qiEh6QJg9Ho2jx6-fR5ZA40c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "765012289395-502e5sar7f93famu8ibokgosvmqlq7e9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

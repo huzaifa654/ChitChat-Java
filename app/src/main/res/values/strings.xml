@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ChitChat</string>
+    <string name="passward">Passward</string>
+    <string name="useranme">Useranme</string>
+    <string name="email">Email</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="sign_up">Sign up</string>
+    <string name="already_have_an_account">Already have an Account</string>
+    <string name="sign_up_with_phone">Sign up with phone</string>
+    <string name="email_phone">Email/phone</string>
+    <string name="click_to_sign_up">Click to Sign Up</string>
+    <string name="sign_in">Sign in</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
